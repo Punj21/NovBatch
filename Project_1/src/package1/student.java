@@ -16,7 +16,7 @@ public class student //Class Name - student
 	
 	public void display2() 
 	{
-		System.out.println("Automation is very easy");
+		System.out.println("Automation is super easy");
 		
 	}
 	
